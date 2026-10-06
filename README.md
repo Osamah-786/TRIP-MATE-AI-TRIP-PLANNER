@@ -2,6 +2,9 @@
 
 TripMate AI is a web-based travel planner that combines flight data, hotel search results, and an AI-generated itinerary in response to a natural-language trip request. It is built with FastAPI and a sequential LangGraph workflow.
 
+
+## VERCEL LINK:- https://trip-mate-ai-planner-cwsty9ccf-osamah-786.vercel.app/
+
 ## Features
 
 - Accepts natural-language travel requests with destination, duration, origin, and budget details.
